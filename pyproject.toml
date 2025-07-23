@@ -1,0 +1,10 @@
+[project]
+name = "body_temperature_checker"
+version = "0.1.0"
+description = "A simple Python project that checks and logs body temperature in Celsius"
+authors = [{ name = "Fateme Hossaini" }]
+requires-python = ">=3.7"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
